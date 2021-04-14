@@ -17,5 +17,7 @@ Modelling Techniques 2 project as part of 2nd year mechanical engineering degree
 ## Acknowledgements
 
 ### Co-authors:
+
 Jamie Wilson
+
 Sam Stephans
