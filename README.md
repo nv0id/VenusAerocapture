@@ -13,6 +13,11 @@ Modelling Techniques 2 project as part of 2nd year mechanical engineering degree
 
 ![Alt Text](./output.gif)
 
+## Burn modelling
+
+See my [question and answer](https://space.stackexchange.com/q/48827/38429) on the space stack exchange regarding the theory behind the burn model.
+
+![hohmann transfer diagram](https://upload.wikimedia.org/wikipedia/commons/8/8c/Hohmann_transfer_orbit2.svg)
 
 ## Acknowledgements
 
