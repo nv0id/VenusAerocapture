@@ -12,3 +12,10 @@ Modelling Techniques 2 project as part of 2nd year mechanical engineering degree
 - Enter values for variables and press start
 
 ![Alt Text](./output.gif)
+
+
+## Acknowledgements
+
+### Co-authors:
+Jamie Wilson
+Sam Stephans
