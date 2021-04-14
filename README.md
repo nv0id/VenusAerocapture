@@ -7,3 +7,5 @@
 - Open intialvariables by typing it into the command window **please note it is mispelled intial NOT initial**
 - Enter values for variables and press start
 - Happy coding :))
+
+![Alt Text](./output.gif)
